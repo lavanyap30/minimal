@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Lavanya P </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/lavanya-p-3a44b91a9/">LinkedIn</a> |
+  <a href="https://github.com/lavanyap30">GitHub</a>
+  
+  <br>   
+  I'm a Technical Trainer. My subject expertise include C, Python, DSA, MySQL, Data Analysis through Python (Numpy, Pandas, Matplotlib). Being a pythoner, my aim is to see myself as an Machine Learning Engineer as you know there is nothing which is so exciting as training a machine.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
